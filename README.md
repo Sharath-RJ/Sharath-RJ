@@ -7,13 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Amigo**
+- 🔭 I’m currently working on [Amigo](https://github.com/Sharath-RJ/Amigo.git)
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Node js, Mongo DB, PostgreSql, Express, PHP, MySQL etc**
+- 👨‍💻 All of my projects are available at [https://sharath-rj.github.io/Sharath_J/](https://sharath-rj.github.io/Sharath_J/)
+
+- 💬 Ask me about **Feel free to ask me anything about tech, especially if it involves the MEAN stack! Whether you're curious about MongoDB, Express.js, Angular, or Node.js, I'm here to help. Let's dive into code, debug issues, and explore the endless possibilities of web development together. Happy coding!**
 
 - 📫 How to reach me **sharathj116@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Odvqd1pW6AuVdBC6QRGIcOLISnY27HFF/view?usp=sharing](https://drive.google.com/file/d/1Odvqd1pW6AuVdBC6QRGIcOLISnY27HFF/view?usp=sharing)
+
+- ⚡ Fun fact **The first ever domain registered was Symbolics.com on March 15, 1985, and it's still active today.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,6 +30,7 @@
 <a href="https://dev.to/sharath j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sharath j" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sharath j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharath j" height="30" width="40" /></a>
 <a href="https://fb.com/sharath j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharath j" height="30" width="40" /></a>
+<a href="https://instagram.com/bot_interpreter_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bot_interpreter_" height="30" width="40" /></a>
 <a href="https://medium.com/@sharathj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sharathj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sharath j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sharath j" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharathj116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharathj116" height="30" width="40" /></a>
