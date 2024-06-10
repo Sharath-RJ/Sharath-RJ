@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sharath J</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">🚀 Enthusiastic Full Stack Developer | Self-Taught Tech Aficionado 🌏 India
+
+Turning coffee into code, one line at a time. With a relentless passion for crafting elegant solutions, I delve into both front-end and back-end realms. Driven by curiosity and an insatiable appetite for learning, I continuously explore new technologies to stay ahead of the curve.
+
+🌟 Let’s build something amazing together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharath-rj&label=Profile%20views&color=0e75b6&style=flat" alt="sharath-rj" /> </p>
 
