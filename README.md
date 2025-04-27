@@ -21,8 +21,6 @@ Turning coffee into code, one line at a time. With a relentless passion for craf
 
 - 📫 How to reach me **sharathj116@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Odvqd1pW6AuVdBC6QRGIcOLISnY27HFF/view?usp=sharing](https://drive.google.com/file/d/1Odvqd1pW6AuVdBC6QRGIcOLISnY27HFF/view?usp=sharing)
-
 - ⚡ Fun fact **The first ever domain registered was Symbolics.com on March 15, 1985, and it's still active today.**
 
 ### Blogs posts
