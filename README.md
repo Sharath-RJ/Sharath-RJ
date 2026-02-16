@@ -111,7 +111,7 @@ const sharathJ = {
 ## 🌐 Let's Connect
 
 <p>
-  <a href="https://sharath-rj.github.io/Sharath_J/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="mailto:sharathj116@gmail.com">
